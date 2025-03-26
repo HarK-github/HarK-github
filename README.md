@@ -15,6 +15,7 @@
 - 📫 How to reach me **kandpalhar@gmail.com**  
 
 ---
+[![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hark-github&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
