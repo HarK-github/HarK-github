@@ -25,6 +25,8 @@
 - 📫 How to reach me **kandpalhar@gmail.com**  
 
 ---
+[![An image of @hark's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hark)](https://holopin.io/@hark)
+---
 [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hark-github&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">Connect with me:</h3>
