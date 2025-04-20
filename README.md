@@ -23,12 +23,17 @@
 
 - 🌱 I’m currently exploring **new technologies**  
 - 📫 How to reach me **kandpalhar@gmail.com**  
-
+<div align="center">
+  
 ---
 [![An image of @hark's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hark)](https://holopin.io/@hark)
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hark-github&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hark-github&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.hackerrank.com/kandpalhar" target="_blank" style="text-decoration: none;">
@@ -79,14 +84,14 @@
 </p>
 
 ---
+## 📊 GitHub Stats  
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hark-github&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hark-github&" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hark-github&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hark-github&theme=vue-dark&hide_border=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hark-github&theme=vue-dark&hide_border=true&layout=compact)  
 
+</div>
 ---
  
