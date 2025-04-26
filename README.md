@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Kandpal</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<h2 align="center"> Portfolio:https://harshitk-iit.vercel.app/</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
