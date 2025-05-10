@@ -4,16 +4,17 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Kandpal</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<p>
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
 </p>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hark-github&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -21,7 +22,16 @@
 <br/>
 
 - 🌱 I’m currently exploring **new technologies**  
-- 📫 How to reach me **kandpalhar@gmail.com**  
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-k-a746a1310/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://discord.com/users/1205201996492046369">
+    <img src="https://img.shields.io/badge/Discord-LeOn%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 <div align="center">
   
 ---
@@ -33,18 +43,8 @@
 ---
 
 </div>
-<h3 align="center">Connect with me:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.hackerrank.com/kandpalhar" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="50" height="50"/>
-  </a>
-  <a href="https://www.leetcode.com/harshit_k_infinity" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" height="50"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/kandpalhar" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="50" height="50"/>
-  </a>
-</p>
+
+
 
 ---
 
