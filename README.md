@@ -1,19 +1,28 @@
 <p align="center">
-  <img src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" alt="Profile Banner" width="100%" height="20%" />
+  <img src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" width="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Kandpal</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
+
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="MediaWiki" src="https://img.shields.io/badge/-MediaWiki-396AB1?style=flat-square&logo=mediawiki&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Web3" src="https://img.shields.io/badge/-Web3-2CA9BC?style=flat-square&logo=web3dotjs&logoColor=white" />
+  <img alt="Blockchain" src="https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white" />
 </p>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hark-github&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
