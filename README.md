@@ -27,7 +27,11 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hark-github&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <br/>
 
 - 🌱 I’m currently exploring **new technologies**  
