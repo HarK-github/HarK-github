@@ -8,8 +8,7 @@
   <h3>A passionate frontend and backend developer from India</h3>
 </div>
  
-<div style="  background:url('./images/114482.gif') center/cover no-repeat;  text-align:center;  border-radius:20px;  padding:20px;  backdrop-filter:blur(6px);  -webkit-backdrop-filter:blur(6px);  opacity:0.9;  position:relative;  z-index:10;
-"> 
+<div style="  background:url('./images/114482.gif') center/cover no-repeat;  text-align:center;  border-radius:20px;  padding:20px;  opacity:0.9;  position:relative;  z-index:10;"> 
   <div style="margin-bottom:10px;">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
