@@ -1,46 +1,15 @@
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-  }
-
-  .header-top-gif {
-    position: absolute;
-    top: 0;
-    width: 200px;
-    z-index: 0;
-  }
-
-  .profile-container {
-    position: relative;
-    z-index: 10; 
-  }
-
-  .profile-img {
-    border-radius: 50%;
-    width: 150px;
-    z-index: 10;
-  }
-
-  .skills-container {
-    background: url('./images/114482.gif') center/cover no-repeat;
-    text-align: center;
-    border-radius:20px;
-    opacity:0.7
-    padding: 20px;
-  }
-</style>
  
-<img class="header-top-gif" src="./images/img.gif" alt="Header GIF" />
  
-<div class="profile-container" align="center">
-  <img class="profile-img" src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" />
+<img style="position: absolute;top: 0;width:200px;z-index:-1;" src="./images/img.gif" alt="Header GIF" />
+ 
+<div class="profile-container" align="center" style="z-index:100">
+  <img class="profile-img" src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" style ="border-radius: 50%;  width: 150px;  z-index: 100;"/>
   
   <h1>Hi 👋, I'm Harshit Kandpal</h1>
   <h3>A passionate frontend and backend developer from India</h3>
 </div>
 
- <div class="skills-container" >
+ <div class="skills-container" style="background: url('./images/114482.gif') center/cover no-repeat;text-align: center;border-radius:20px;opacity:0.7;padding: 20px;">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="MediaWiki" src="https://img.shields.io/badge/-MediaWiki-396AB1?style=flat-square&logo=mediawiki&logoColor=white" />
@@ -57,7 +26,7 @@
   <img alt="Web3" src="https://img.shields.io/badge/-Web3-2CA9BC?style=flat-square&logo=web3dotjs&logoColor=white" />
   <img alt="Blockchain" src="https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white" />
 
-  <p style= "backdrop-filter: blur(6px);">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=hark-github&label=Profile%20views&color=0e75b6&style=flat" style="backdrop-filter: blur(10px); alt="Profile Views" />
     <h3 align="center">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/harshit-k-a746a1310/">
