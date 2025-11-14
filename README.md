@@ -1,11 +1,46 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" width="150" style="border-radius: 50%;" />
-</p>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+  }
 
-<h1 align="center">Hi 👋, I'm Harshit Kandpal</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+  .header-top-gif {
+    position: absolute;
+    top: 0;
+    width: 200px;
+    z-index: 0;
+  }
 
-<p align="center">
+  .profile-container {
+    position: relative;
+    z-index: 10; 
+  }
+
+  .profile-img {
+    border-radius: 50%;
+    width: 150px;
+    z-index: 10;
+  }
+
+  .skills-container {
+    background: url('./images/114482.gif') center/cover no-repeat;
+    text-align: center;
+    border-radius:20px;
+    opacity:0.7
+    padding: 20px;
+  }
+</style>
+ 
+<img class="header-top-gif" src="./images/img.gif" alt="Header GIF" />
+ 
+<div class="profile-container" align="center">
+  <img class="profile-img" src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" />
+  
+  <h1>Hi 👋, I'm Harshit Kandpal</h1>
+  <h3>A passionate frontend and backend developer from India</h3>
+</div>
+
+ <div class="skills-container" >
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="MediaWiki" src="https://img.shields.io/badge/-MediaWiki-396AB1?style=flat-square&logo=mediawiki&logoColor=white" />
@@ -21,30 +56,34 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Web3" src="https://img.shields.io/badge/-Web3-2CA9BC?style=flat-square&logo=web3dotjs&logoColor=white" />
   <img alt="Blockchain" src="https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white" />
-</p>
 
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hark-github&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-<br/>
-
-- 🌱 I’m currently exploring **new technologies**  
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+  <p style= "backdrop-filter: blur(6px);">
+    <img src="https://komarev.com/ghpvc/?username=hark-github&label=Profile%20views&color=0e75b6&style=flat" style="backdrop-filter: blur(10px); alt="Profile Views" />
+    <h3 align="center">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/harshit-k-a746a1310/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://discord.com/users/1205201996492046369">
     <img src="https://img.shields.io/badge/Discord-LeOn%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
+
+- I love everything about tech
+
 </p>
+ 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
+</div>
+
+
+
+<br/>
+
 <div align="center">
   
 ---
