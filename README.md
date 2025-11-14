@@ -1,27 +1,14 @@
  
-<img style="position:absolute; top:0; width:200px; border-radius:20px; z-index:-1;" 
-     src="./images/img.gif" 
-     alt="Header GIF" />
+<img style="position:absolute; top:0; width:200px; border-radius:20px;z-index:-1;" src="./images/img.gif" alt="Header GIF" />
  
 <div align="center" style="position:relative; z-index:100;">
-  <img src="https://avatars.githubusercontent.com/u/171217644"
-       alt="Harshit Kandpal"
-       style="border-radius:50%; width:150px;" />
+  <img src="https://avatars.githubusercontent.com/u/171217644"       alt="Harshit Kandpal" style="border-radius:50%; width:150px;" />
 
   <h1>Hi 👋, I'm Harshit Kandpal</h1>
   <h3>A passionate frontend and backend developer from India</h3>
 </div>
  
-<div style="
-  background:url('./images/114482.gif') center/cover no-repeat;
-  text-align:center;
-  border-radius:20px;
-  padding:20px;
-  backdrop-filter:blur(6px);
-  -webkit-backdrop-filter:blur(6px);
-  opacity:0.9;
-  position:relative;
-  z-index:10;
+<div style="  background:url('./images/114482.gif') center/cover no-repeat;  text-align:center;  border-radius:20px;  padding:20px;  backdrop-filter:blur(6px);  -webkit-backdrop-filter:blur(6px);  opacity:0.9;  position:relative;  z-index:10;
 "> 
   <div style="margin-bottom:10px;">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
