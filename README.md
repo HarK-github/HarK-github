@@ -10,6 +10,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=600&lines=Developer;AI+%26+ML+Enthusiast;Blockchain+Explorer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </a>
 
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/harshit-k-a746a1310/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1205201996492046369">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/Hark-github">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:harshit.kandpal@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+
 <br>
 
 <!-- PROFILE VIEWS WITH ANIMATION -->
@@ -39,31 +60,6 @@
 </p>
 
 <br>
-
----
-
-### 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/harshit-k-a746a1310/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1205201996492046369">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hark-github">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:harshit.kandpal@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
 ---
 
 ### 📊 GitHub Analytics
@@ -107,20 +103,7 @@ me = Harshit()
 print(me.quote())
 ```
 
-<br>
-
----
-
-### 📈 Contribution Graph
-
-<!-- SNAKE GAME CONTRIBUTION GRID -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hark-github/Hark-github/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hark-github/Hark-github/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Hark-github/Hark-github/output/github-snake.svg" />
-</picture>
-
-<br><br>
+<br> 
 
 ---
 
