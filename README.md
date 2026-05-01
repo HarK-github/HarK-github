@@ -2,6 +2,7 @@
 <div align="center">
   
 <div align="center">
+   <img src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" width="150" style="border-radius: 50%;" />
   <img src="./images/prof.svg" alt="Harshit Kandpal Header" width="100%" />
 </div>
 
@@ -39,7 +40,7 @@
 <br><br>
 
 <!-- GLOWING BADGES SECTION -->
-### 🔥 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" />
@@ -82,38 +83,13 @@
  
 
 ---
-
-### 🎯 Current Focus
-
-```python
-class Harshit:
-    def __init__(self):
-        self.current_focus = "Full Stack Development + AI Integration"
-        self.learning = ["Web3", "TensorFlow", "System Design"]
-        self.building = "AI-powered Developer Tool"
-        self.goal = "Contribute to 100 open-source projects in 2025"
-    
-    def daily_routine(self):
-        return ["Code 💻", "Learn 📚", "Build 🚀", "Repeat 🔁"]
-    
-    def quote(self):
-        return "Code is poetry written in logic."
-
-me = Harshit()
-print(me.quote())
-```
-
-<br> 
-
----
-
-### 🏆 Holopin Badges
+ 
+###  Holopin Badges
 
 [![An image of @hark's Holopin badges](https://holopin.me/hark)](https://holopin.io/@hark)
 
 <br> 
-
----
+ 
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
