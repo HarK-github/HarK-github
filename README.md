@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Kandpal</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -28,10 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=hark-github&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<br/>
-
-- 🌱 I’m currently exploring **new technologies**  
-
+<br/> 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-k-a746a1310/">
@@ -96,10 +92,10 @@
 
 <div align="center">
   
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hark-github&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hark-github&theme=vue-dark&hide_border=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hark-github&theme=vue-dark&hide_border=true&layout=compact)  
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+ 
 </div>
+
 ---
  
