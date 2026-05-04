@@ -1,15 +1,25 @@
  
 <div align="center">
   
-<div align="center">
-   <img src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" width="150" style="border-radius: 50%;" />
-  <img src="./images/prof.svg" alt="Harshit Kandpal Header" width="100%" />
-</div>
+<table align="center" border="0">
+  <tr>
+    <!-- Left Side: Profile Image -->
+    <td align="center" valign="center">
+      <img src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" width="150" style="border-radius: 50%;" />
+    </td>
+    <!-- Middle: Vertical Line -->
+    <!-- Right Side: Typing SVG -->
+    <td align="center" valign="center">
+      <a href="https://git.io/typing-svg">
+<img src="https://raw.githubusercontent.com/Hark-github/Hark-github/main/images/prof.svg" alt="Harshit Kandpal Header" width="300" />      </a>
+    </td>
+    
+  </tr>
+</table>
 
-<!-- DYNAMIC TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=600&lines=Developer;AI+%26+ML+Enthusiast;Blockchain+Explorer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
-</a>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=450&lines=Developer;AI+%26+ML+Enthusiast;Blockchain+Explorer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+
 
 ### 🌐 Connect With Me
 
@@ -37,7 +47,7 @@
 <!-- PROFILE VIEWS WITH ANIMATION -->
 <img src="https://komarev.com/ghpvc/?username=Hark-github&label=✨+Profile+Views&color=6A0DAD&style=for-the-badge&abbreviated=true" alt="Profile Views" />
 
-<br><br>
+<br>
 
 <!-- GLOWING BADGES SECTION -->
 ###  Tech Stack & Tools
@@ -61,6 +71,7 @@
 </p>
 
 <br>
+
 ---
 
 ### 📊 GitHub Analytics
