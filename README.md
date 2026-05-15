@@ -2,8 +2,7 @@
 <div align="center">
   
 <table align="center" border="0">
-  <tr>
-    <!-- Left Side: Profile Image -->
+  <tr> 
     <td align="center" valign="center">
       <img src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" width="150" style="border-radius: 50%;" />
     </td>
