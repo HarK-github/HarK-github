@@ -10,14 +10,15 @@
     <!-- Right Side: Typing SVG -->
     <td align="center" valign="center">
       <a href="https://git.io/typing-svg">
-<img src="https://raw.githubusercontent.com/Hark-github/Hark-github/main/images/prof.svg" alt="Harshit Kandpal Header" width="300" />      </a>
+<img src="https://raw.githubusercontent.com/Hark-github/Hark-github/main/images/prof.svg" alt="Harshit Kandpal Header" width="300" />  
+      
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=450&lines=Developer;AI+%26+ML+Enthusiast;Blockchain+Explorer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" /></a>
     </td>
     
   </tr>
 </table>
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=450&lines=Developer;AI+%26+ML+Enthusiast;Blockchain+Explorer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 
 
 ### 🌐 Connect With Me
@@ -68,10 +69,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black" />
 </p>
-
-<br>
-
----
 
 ### 📊 GitHub Analytics
   
