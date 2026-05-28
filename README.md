@@ -82,9 +82,6 @@
 
 <br>
 
-<!-- TROPHY SECTION -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hark-github&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
-
 <br>
  
  
