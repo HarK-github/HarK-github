@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1350" viewBox="0 0 1000 1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161B22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1C2333;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:0.95" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6A0DAD" />
+      <stop offset="100%" style="stop-color:#9B4DCA" />
+    </linearGradient>
+    <linearGradient id="purpleGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6A0DAD;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#9B4DCA;stop-opacity:0.05" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#6A0DAD" flood-opacity="0.3"/>
+    </filter>
+    <clipPath id="avatarClip">
+      <circle cx="75" cy="75" r="65" />
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="1350" fill="url(#bgGrad)" rx="20" />
+
+  <!-- Title Bar -->
+  <rect x="30" y="25" width="940" height="80" rx="16" fill="url(#cardGrad)" stroke="#6A0DAD" stroke-width="1.5" filter="url(#shadow)" />
+  <text x="500" y="72" font-family="'Fira Code', monospace" font-size="32" fill="#FFFFFF" text-anchor="middle" font-weight="bold">
+    ✦ Harshit Kandpal ✦
+  </text>
+  <rect x="250" y="78" width="500" height="2" fill="url(#accentGrad)" />
+
+  <!-- ==================== BENTO GRID ==================== -->
+
+  <!-- Row 1: Avatar + Typing -->
+  <!-- Box 1: Avatar (2 cols) -->
+  <rect x="30" y="125" width="180" height="200" rx="16" fill="url(#cardGrad)" stroke="#6A0DAD" stroke-width="1" filter="url(#shadow)" />
+  <circle cx="120" cy="170" r="65" fill="url(#bgGrad)" stroke="url(#accentGrad)" stroke-width="3" filter="url(#glow)" />
+  <image href="https://avatars.githubusercontent.com/u/171217644" x="55" y="105" width="130" height="130" clip-path="url(#avatarClip)" />
+  <text x="120" y="295" font-family="'Fira Code', monospace" font-size="14" fill="#6A0DAD" text-anchor="middle">@Hark-github</text>
+
+  <!-- Box 2: Typing Roles (4 cols) -->
+  <rect x="225" y="125" width="400" height="200" rx="16" fill="url(#cardGrad)" stroke="#9B4DCA" stroke-width="1" filter="url(#shadow)" />
+  <text x="425" y="175" font-family="'Fira Code', monospace" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">
+    Developer
+  </text>
+  <text x="425" y="215" font-family="'Fira Code', monospace" font-size="22" fill="#9B4DCA" text-anchor="middle" opacity="0.9">
+    AI &amp; ML Enthusiast
+  </text>
+  <text x="425" y="255" font-family="'Fira Code', monospace" font-size="22" fill="#9B4DCA" text-anchor="middle" opacity="0.8">
+    Blockchain Explorer
+  </text>
+  <text x="425" y="295" font-family="'Fira Code', monospace" font-size="18" fill="#6A0DAD" text-anchor="middle" opacity="0.7">
+    Open Source · Problem Solver
+  </text>
+  <!-- Animated cursor -->
+  <rect x="630" y="255" width="3" height="22" fill="#6A0DAD">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Box 3: Profile Views (2 cols) -->
+  <rect x="640" y="125" width="330" height="200" rx="16" fill="url(#cardGrad)" stroke="#6A0DAD" stroke-width="1" filter="url(#shadow)" />
+  <text x="805" y="195" font-family="'Fira Code', monospace" font-size="20" fill="#FFFFFF" text-anchor="middle">✨ Profile Views</text>
+  <text x="805" y="260" font-family="'Fira Code', monospace" font-size="48" fill="url(#accentGrad)" text-anchor="middle" filter="url(#glow)">
+    1.2K
+  </text>
+  <rect x="700" y="285" width="210" height="6" rx="3" fill="#1C2333" />
+  <rect x="700" y="285" width="180" height="6" rx="3" fill="url(#accentGrad)">
+    <animate attributeName="width" values="0;180" dur="3s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Row 2: Connect + Tech Stack -->
+
+  <!-- Box 4: Connect (3 cols) -->
+  <rect x="30" y="345" width="280" height="220" rx="16" fill="url(#cardGrad)" stroke="#6A0DAD" stroke-width="1" filter="url(#shadow)" />
+  <text x="170" y="385" font-family="'Fira Code', monospace" font-size="18" fill="#FFFFFF" text-anchor="middle">🌐 Connect</text>
+  <line x1="60" y1="398" x2="280" y2="398" stroke="#6A0DAD" stroke-width="1" opacity="0.3" />
+
+  <!-- Social Icons as simple colored boxes -->
+  <rect x="55" y="415" width="220" height="36" rx="8" fill="#0077B5" opacity="0.85" />
+  <text x="165" y="439" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="middle">in LinkedIn</text>
+
+  <rect x="55" y="461" width="220" height="36" rx="8" fill="#5865F2" opacity="0.85" />
+  <text x="165" y="485" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="middle">Discord</text>
+
+  <rect x="55" y="507" width="220" height="36" rx="8" fill="#FFFFFF" opacity="0.2" />
+  <text x="165" y="531" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="middle">🐙 GitHub</text>
+
+  <!-- Box 5: Tech Stack (7 cols) -->
+  <rect x="325" y="345" width="645" height="220" rx="16" fill="url(#cardGrad)" stroke="#9B4DCA" stroke-width="1" filter="url(#shadow)" />
+  <text x="647" y="385" font-family="'Fira Code', monospace" font-size="18" fill="#FFFFFF" text-anchor="middle">⚡ Tech Stack &amp; Tools</text>
+  <line x1="360" y1="398" x2="935" y2="398" stroke="#9B4DCA" stroke-width="1" opacity="0.3" />
+
+  <!-- Tech badges arranged in grid -->
+  <!-- Row 1 -->
+  <rect x="350" y="415" width="100" height="30" rx="6" fill="#20232A" stroke="#61DAFB" stroke-width="0.8" />
+  <text x="400" y="435" font-family="monospace" font-size="12" fill="#61DAFB" text-anchor="middle">React</text>
+
+  <rect x="460" y="415" width="100" height="30" rx="6" fill="#20232A" stroke="#FFFFFF" stroke-width="0.8" />
+  <text x="510" y="435" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">Next.js</text>
+
+  <rect x="570" y="415" width="100" height="30" rx="6" fill="#20232A" stroke="#339933" stroke-width="0.8" />
+  <text x="620" y="435" font-family="monospace" font-size="12" fill="#339933" text-anchor="middle">Node.js</text>
+
+  <rect x="680" y="415" width="100" height="30" rx="6" fill="#20232A" stroke="#3776AB" stroke-width="0.8" />
+  <text x="730" y="435" font-family="monospace" font-size="12" fill="#3776AB" text-anchor="middle">Python</text>
+
+  <rect x="790" y="415" width="100" height="30" rx="6" fill="#20232A" stroke="#007ACC" stroke-width="0.8" />
+  <text x="840" y="435" font-family="monospace" font-size="12" fill="#007ACC" text-anchor="middle">TS</text>
+
+  <!-- Row 2 -->
+  <rect x="350" y="455" width="100" height="30" rx="6" fill="#20232A" stroke="#06B6D4" stroke-width="0.8" />
+  <text x="400" y="475" font-family="monospace" font-size="12" fill="#06B6D4" text-anchor="middle">Tailwind</text>
+
+  <rect x="460" y="455" width="100" height="30" rx="6" fill="#20232A" stroke="#47A248" stroke-width="0.8" />
+  <text x="510" y="475" font-family="monospace" font-size="12" fill="#47A248" text-anchor="middle">MongoDB</text>
+
+  <rect x="570" y="455" width="100" height="30" rx="6" fill="#20232A" stroke="#4169E1" stroke-width="0.8" />
+  <text x="620" y="475" font-family="monospace" font-size="12" fill="#4169E1" text-anchor="middle">PostgreSQL</text>
+
+  <rect x="680" y="455" width="100" height="30" rx="6" fill="#20232A" stroke="#2496ED" stroke-width="0.8" />
+  <text x="730" y="475" font-family="monospace" font-size="12" fill="#2496ED" text-anchor="middle">Docker</text>
+
+  <rect x="790" y="455" width="100" height="30" rx="6" fill="#20232A" stroke="#F05032" stroke-width="0.8" />
+  <text x="840" y="475" font-family="monospace" font-size="12" fill="#F05032" text-anchor="middle">Git</text>
+
+  <!-- Row 3 -->
+  <rect x="350" y="495" width="100" height="30" rx="6" fill="#20232A" stroke="#FF6F00" stroke-width="0.8" />
+  <text x="400" y="515" font-family="monospace" font-size="12" fill="#FF6F00" text-anchor="middle">TF</text>
+
+  <rect x="460" y="495" width="100" height="30" rx="6" fill="#20232A" stroke="#EE4C2C" stroke-width="0.8" />
+  <text x="510" y="515" font-family="monospace" font-size="12" fill="#EE4C2C" text-anchor="middle">PyTorch</text>
+
+  <rect x="570" y="495" width="100" height="30" rx="6" fill="#20232A" stroke="#F16822" stroke-width="0.8" />
+  <text x="620" y="515" font-family="monospace" font-size="12" fill="#F16822" text-anchor="middle">Web3.js</text>
+
+  <rect x="680" y="495" width="100" height="30" rx="6" fill="#20232A" stroke="#FFFFFF" stroke-width="0.8" />
+  <text x="730" y="515" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">Solidity</text>
+
+  <rect x="790" y="495" width="100" height="30" rx="6" fill="#20232A" stroke="#F24E1E" stroke-width="0.8" />
+  <text x="840" y="515" font-family="monospace" font-size="12" fill="#F24E1E" text-anchor="middle">Figma</text>
+
+  <!-- Row 3: GitHub Analytics -->
+
+  <!-- Box 6: Streak Stats (6 cols) -->
+  <rect x="30" y="585" width="600" height="260" rx="16" fill="url(#cardGrad)" stroke="#6A0DAD" stroke-width="1" filter="url(#shadow)" />
+  <text x="330" y="625" font-family="'Fira Code', monospace" font-size="18" fill="#FFFFFF" text-anchor="middle">📊 GitHub Streak</text>
+  <line x1="60" y1="638" x2="600" y2="638" stroke="#6A0DAD" stroke-width="1" opacity="0.3" />
+
+  <!-- Streak stats display -->
+  <text x="330" y="690" font-family="'Fira Code', monospace" font-size="48" fill="url(#accentGrad)" text-anchor="middle" filter="url(#glow)">
+    42
+  </text>
+  <text x="330" y="715" font-family="'Fira Code', monospace" font-size="14" fill="#9B4DCA" text-anchor="middle">days streak</text>
+
+  <rect x="120" y="750" width="420" height="8" rx="4" fill="#1C2333" />
+  <rect x="120" y="750" width="350" height="8" rx="4" fill="url(#accentGrad)">
+    <animate attributeName="width" values="0;350" dur="4s" repeatCount="indefinite" />
+  </rect>
+
+  <text x="330" y="825" font-family="monospace" font-size="14" fill="#6A0DAD" text-anchor="middle">🔥 1,234 contributions in last year</text>
+
+  <!-- Box 7: Activity Graph (4 cols) -->
+  <rect x="645" y="585" width="325" height="260" rx="16" fill="url(#cardGrad)" stroke="#9B4DCA" stroke-width="1" filter="url(#shadow)" />
+  <text x="807" y="625" font-family="'Fira Code', monospace" font-size="16" fill="#FFFFFF" text-anchor="middle">📈 Activity</text>
+  <line x1="670" y1="638" x2="945" y2="638" stroke="#9B4DCA" stroke-width="1" opacity="0.3" />
+
+  <!-- Fake activity graph bars -->
+  <rect x="665" y="660" width="20" height="40" rx="3" fill="#6A0DAD" opacity="0.7" />
+  <rect x="695" y="650" width="20" height="50" rx="3" fill="#6A0DAD" opacity="0.8" />
+  <rect x="725" y="670" width="20" height="30" rx="3" fill="#6A0DAD" opacity="0.6" />
+  <rect x="755" y="640" width="20" height="60" rx="3" fill="#9B4DCA" opacity="0.9" />
+  <rect x="785" y="655" width="20" height="45" rx="3" fill="#6A0DAD" opacity="0.75" />
+  <rect x="815" y="630" width="20" height="70" rx="3" fill="#9B4DCA" opacity="0.95" />
+  <rect x="845" y="660" width="20" height="40" rx="3" fill="#6A0DAD" opacity="0.7" />
+  <rect x="875" y="645" width="20" height="55" rx="3" fill="#6A0DAD" opacity="0.8" />
+  <rect x="905" y="680" width="20" height="20" rx="3" fill="#6A0DAD" opacity="0.5" />
+  <rect x="935" y="665" width="20" height="35" rx="3" fill="#6A0DAD" opacity="0.6" />
+
+  <text x="807" y="750" font-family="monospace" font-size="13" fill="#9B4DCA" text-anchor="middle">Contributions 2024</text>
+
+  <!-- Fake contribution dots -->
+  <rect x="670" y="770" width="12" height="12" rx="2" fill="#6A0DAD" opacity="0.5" />
+  <rect x="690" y="770" width="12" height="12" rx="2" fill="#9B4DCA" />
+  <rect x="710" y="770" width="12" height="12" rx="2" fill="#6A0DAD" opacity="0.7" />
+  <rect x="730" y="770" width="12" height="12" rx="2" fill="#1C2333" />
+  <rect x="750" y="770" width="12" height="12" rx="2" fill="#9B4DCA" />
+  <rect x="770" y="770" width="12" height="12" rx="2" fill="#6A0DAD" opacity="0.4" />
+  <rect x="790" y="770" width="12" height="12" rx="2" fill="#9B4DCA" opacity="0.8" />
+  <rect x="810" y="770" width="12" height="12" rx="2" fill="#6A0DAD" />
+  <rect x="830" y="770" width="12" height="12" rx="2" fill="#1C2333" />
+  <rect x="850" y="770" width="12" height="12" rx="2" fill="#9B4DCA" />
+  <rect x="870" y="770" width="12" height="12" rx="2" fill="#6A0DAD" opacity="0.6" />
+  <rect x="890" y="770" width="12" height="12" rx="2" fill="#6A0DAD" opacity="0.8" />
+  <rect x="910" y="770" width="12" height="12" rx="2" fill="#9B4DCA" opacity="0.5" />
+  <rect x="930" y="770" width="12" height="12" rx="2" fill="#1C2333" />
+
+  <!-- Row 4: Holopin Badges -->
+
+  <rect x="30" y="865" width="940" height="200" rx="16" fill="url(#cardGrad)" stroke="#6A0DAD" stroke-width="1" filter="url(#shadow)" />
+  <text x="500" y="905" font-family="'Fira Code', monospace" font-size="18" fill="#FFFFFF" text-anchor="middle">🏅 Holopin Badges</text>
+  <line x1="60" y1="918" x2="940" y2="918" stroke="#6A0DAD" stroke-width="1" opacity="0.3" />
+
+  <!-- Holopin badge placeholders -->
+  <circle cx="150" cy="990" r="32" fill="#1C2333" stroke="#6A0DAD" stroke-width="2" />
+  <text x="150" y="996" font-family="monospace" font-size="12" fill="#9B4DCA" text-anchor="middle">H1</text>
+
+  <circle cx="250" cy="990" r="32" fill="#1C2333" stroke="#9B4DCA" stroke-width="2" />
+  <text x="250" y="996" font-family="monospace" font-size="12" fill="#9B4DCA" text-anchor="middle">H2</text>
+
+  <circle cx="350" cy="990" r="32" fill="#1C2333" stroke="#6A0DAD" stroke-width="2" />
+  <text x="350" y="996" font-family="monospace" font-size="12" fill="#9B4DCA" text-anchor="middle">H3</text>
+
+  <circle cx="450" cy="990" r="32" fill="#1C2333" stroke="#9B4DCA" stroke-width="2" />
+  <text x="450" y="996" font-family="monospace" font-size="12" fill="#9B4DCA" text-anchor="middle">H4</text>
+
+  <circle cx="550" cy="990" r="32" fill="#1C2333" stroke="#6A0DAD" stroke-width="2" />
+  <text x="550" y="996" font-family="monospace" font-size="12" fill="#9B4DCA" text-anchor="middle">H5</text>
+
+  <circle cx="650" cy="990" r="32" fill="#1C2333" stroke="#9B4DCA" stroke-width="2" />
+  <text x="650" y="996" font-family="monospace" font-size="12" fill="#9B4DCA" text-anchor="middle">H6</text>
+
+  <circle cx="750" cy="990" r="32" fill="#1C2333" stroke="#6A0DAD" stroke-width="2" />
+  <text x="750" y="996" font-family="monospace" font-size="12" fill="#9B4DCA" text-anchor="middle">H7</text>
+
+  <circle cx="850" cy="990" r="32" fill="#1C2333" stroke="#9B4DCA" stroke-width="2" />
+  <text x="850" y="996" font-family="monospace" font-size="12" fill="#9B4DCA" text-anchor="middle">H8</text>
+
+  <text x="500" y="1045" font-family="monospace" font-size="12" fill="#6A0DAD" text-anchor="middle" opacity="0.7">holopin.io/@hark</text>
+
+  <!-- Footer -->
+  <rect x="30" y="1085" width="940" height="50" rx="12" fill="#1C2333" opacity="0.5" />
+  <text x="500" y="1116" font-family="'Fira Code', monospace" font-size="14" fill="#6A0DAD" text-anchor="middle" opacity="0.8">
+    ⚡ Built with passion • Harshit Kandpal © 2024
+  </text>
+
+</svg>
