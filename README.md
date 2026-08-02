@@ -1,98 +1,27 @@
- 
-<div align="center">
-  
-<table align="center" border="0">
-  <tr> 
-    <td align="center" valign="center">
-      <img src="https://avatars.githubusercontent.com/u/171217644" alt="Harshit Kandpal" width="150" style="border-radius: 50%;" />
-    </td>
-    <!-- Middle: Vertical Line -->
-    <!-- Right Side: Typing SVG -->
-    <td align="center" valign="center">
-      <a href="https://git.io/typing-svg">
-<img src="https://raw.githubusercontent.com/Hark-github/Hark-github/main/images/prof.svg" alt="Harshit Kandpal Header" width="300" />  
-      
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=450&lines=Developer;AI+%26+ML+Enthusiast;Blockchain+Explorer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" /></a>
-    </td>
-    
-  </tr>
-</table>
+![Header Banner](./images/prof.svg)
 
-
-
-
-### 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/harshit-k-a746a1310/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1205201996492046369">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hark-github">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:harshit.kandpal@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-
-<br>
-
-<!-- PROFILE VIEWS WITH ANIMATION -->
-<img src="https://komarev.com/ghpvc/?username=Hark-github&label=✨+Profile+Views&color=6A0DAD&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-
-<br>
-
-<!-- GLOWING BADGES SECTION -->
-###  Tech Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black" />
-</p>
-
-### 📊 GitHub Analytics
-  
-     
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hark-github&theme=radical&hide_border=true&background=0D1117&stroke=6A0DAD&ring=6A0DAD&fire=6A0DAD&currStreakLabel=6A0DAD" width="450" />
-
-<br>
-
-<!-- GITHUB ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hark-github&theme=rogue&hide_border=true&bg_color=0D1117&color=6A0DAD&line=6A0DAD&point=FFFFFF&area=true" width="100%" />
-
-<br>
-
-<br>
- 
- 
+[![](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harshit-k-a746a1310/) [![](https://img.shields.io/badge/LeetCode-0d1117?style=flat&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/Harshit_K_infinity/) [![](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=ffffff)](https://github.com/Hark-github) [![](https://komarev.com/ghpvc/?username=Hark-github&label=Views&color=8b949e&style=flat)](https://github.com/Hark-github)
 
 ---
- 
-###  Holopin Badges
 
-[![An image of @hark's Holopin badges](https://holopin.me/hark)](https://holopin.io/@hark)
+### Experience
 
-<br> 
+#### LFX Mentorship Mentee — **The Linux Foundation (Hyperledger Fabric-X)** 
+- engineering Fabric-X integration paths into Fablo's deployment engine.
+<a href="https://mentorship.lfx.linuxfoundation.org/mentee/5604bcf2-2611-4510-990a-0ee83416b2eb">
+  <img src="https://img.shields.io/badge/LFX_Mentorship-The_Linux_Foundation-0d1117?style=for-the-badge&logo=linuxfoundation&logoColor=ffffff&color=0d1117" alt="LFX Mentorship Banner" width="20%" />
+</a>
  
  
-</div> 
+### Tech Stack 
+
+![](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffffff) ![](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=ffffff) ![](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=ffffff) ![](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffffff) ![](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=ffffff) ![](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=ffffff) ![](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff) ![](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=ffffff) ![](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ffffff) ![](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff) ![](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=ffffff) ![](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=ffffff) ![](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=ffffff) ![](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=ffffff) ![](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ffffff) ![](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=ffffff) ![](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=ffffff) ![](https://img.shields.io/badge/Web3.js-0d1117?style=for-the-badge&logo=web3.js&logoColor=ffffff) ![](https://img.shields.io/badge/IPFS-0d1117?style=for-the-badge&logo=ipfs&logoColor=ffffff) ![](https://img.shields.io/badge/MetaMask-0d1117?style=for-the-badge&logo=metamask&logoColor=ffffff)
+
+ 
+
+### GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hark-github&theme=dark&hide_border=true&background=0D1117&stroke=8B949E&ring=FFFFFF&fire=FFFFFF&currStreakLabel=C9D1D9" height="150" />
+
+
+[![Holopin Badges](https://holopin.me/hark)](https://holopin.io/@hark)
