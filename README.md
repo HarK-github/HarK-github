@@ -1,6 +1,6 @@
 ![Header Banner](./images/prof.svg)
 
-[![](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harshit-k-a746a1310/) [![](https://img.shields.io/badge/LeetCode-0d1117?style=flat&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/Harshit_K_infinity/) [![](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=ffffff)](https://github.com/Hark-github) [![](https://komarev.com/ghpvc/?username=Hark-github&label=Views&color=8b949e&style=flat)](https://github.com/Hark-github)
+[![](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harshit-k-a746a1310/)  [![](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=ffffff)](https://github.com/Hark-github) [![](https://komarev.com/ghpvc/?username=Hark-github&label=Views&color=8b949e&style=flat)](https://github.com/Hark-github)
 
 ---
 
